@@ -391,8 +391,6 @@ Connection ~ 7260 2180
 Wire Wire Line
 	7260 2180 7360 2180
 Wire Wire Line
-	8160 2780 7760 2780
-Wire Wire Line
 	7760 2780 7760 3430
 $Comp
 L Device:R R2
@@ -935,4 +933,17 @@ Wire Wire Line
 Connection ~ 1500 1685
 Text Notes 7410 7485 0    50   ~ 0
 MFJ-1886 Loop modified by W8TAM
+$Comp
+L Device:CP1 C15
+U 1 1 6075E133
+P 8010 2780
+F 0 "C15" V 7758 2780 50  0000 C CNN
+F 1 "1UF" V 7849 2780 50  0000 C CNN
+F 2 "w8tam_footprints:C_Disc_D4.7mm_W2.5mm_P5.00mm" H 8048 2630 50  0001 C CNN
+F 3 "~" H 8010 2780 50  0001 C CNN
+	1    8010 2780
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7860 2780 7760 2780
 $EndSCHEMATC

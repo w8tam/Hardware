@@ -663,7 +663,7 @@ L Regulator_Linear:L7812 U1
 U 1 1 603C77AE
 P 4660 5230
 F 0 "U1" H 4660 5472 50  0000 C CNN
-F 1 "L7812" H 4660 5381 50  0000 C CNN
+F 1 "L7805" H 4660 5381 50  0000 C CNN
 F 2 "Package_TO_SOT_THT:TO-220F-3_Vertical" H 4685 5080 50  0001 L CIN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" H 4660 5180 50  0001 C CNN
 	1    4660 5230
