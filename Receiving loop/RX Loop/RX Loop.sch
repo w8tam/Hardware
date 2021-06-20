@@ -946,4 +946,6 @@ Wire Wire Line
 Connection ~ 6665 5230
 Wire Wire Line
 	6665 5230 7260 5230
+Text Notes 8120 7635 0    50   ~ 0
+20210620
 $EndSCHEMATC
